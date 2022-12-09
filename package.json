@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "sqlite3": "^5.1.2"
+  },
+  "name": "3005_project",
+  "version": "1.0.1",
+  "description": "The source codes for the final COMP3005 bookStore project",
+  "main": "bookstore.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bookstore.js"
+  },
+  "author": "YiLong Huang",
+  "license": "ISC"
+}
